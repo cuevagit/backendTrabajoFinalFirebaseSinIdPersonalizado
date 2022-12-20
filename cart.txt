@@ -1,0 +1,45 @@
+[
+  {
+    "_id": "6dcb7403-2a15-4e42-ac77-c8285749e272",
+    "productos": [
+      {
+        "name": "Rifle 22 LR",
+        "description": "El mejor rifle",
+        "image(url)": "https://cdn.glitch.global/0e3ab45b-a006-4d79-9868-f7eb1f99b246/22lr.png?v=1667991968037",
+        "price": 5000,
+        "_id": "87765b4a-1158-4ba4-b574-e43bab49fe4f"
+      }
+    ]
+  },
+  {
+    "_id": "416128c0-7457-4bba-8b30-04f147e68df6",
+    "productos": [
+      {
+        "name": "Fusil 458",
+        "description": "El mejor fusil",
+        "image(url)": "https://cdn.glitch.global/0e3ab45b-a006-4d79-9868-f7eb1f99b246/mossberg.png?v=1667993087620",
+        "price": "3000",
+        "_id": "613610cc-1f4c-46aa-8343-319a181e2903"
+      }
+    ]
+  },
+  {
+    "_id": "3a60f549-a67e-4658-ae62-a10a8f108079",
+    "productos": [
+      {
+        "name": "Fusil 458",
+        "description": "El mejor fusil",
+        "image(url)": "https://cdn.glitch.global/0e3ab45b-a006-4d79-9868-f7eb1f99b246/mossberg.png?v=1667993087620",
+        "price": "3000",
+        "_id": "613610cc-1f4c-46aa-8343-319a181e2903"
+      },
+      {
+        "name": "Fusil 458",
+        "description": "El mejor fusil",
+        "image(url)": "https://cdn.glitch.global/0e3ab45b-a006-4d79-9868-f7eb1f99b246/mossberg.png?v=1667993087620",
+        "price": "3000",
+        "_id": "613610cc-1f4c-46aa-8343-319a181e2903"
+      }
+    ]
+  }
+]

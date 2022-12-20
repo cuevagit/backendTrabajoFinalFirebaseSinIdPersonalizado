@@ -1,0 +1,34 @@
+{
+  "type": "module",
+  "name": "trabajo_final",
+  "version": "1.0.0",
+  "description": "Trabajo Final",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuevagit/backend.git"
+  },
+  "author": "Cueva Martín",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuevagit/backend/issues"
+  },
+  "homepage": "https://github.com/cuevagit/backend#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "express-router": "^0.0.1",
+    "firebase-admin": "^11.3.0",
+    "knex": "^2.3.0",
+    "mongodb": "^4.12.1",
+    "mysql2": "^2.3.3",
+    "next": "^13.0.5",
+    "sqlite3": "^5.1.4"
+  }
+}
+
+
+

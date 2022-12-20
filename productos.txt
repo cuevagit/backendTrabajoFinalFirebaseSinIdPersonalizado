@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Rifle 22 LR",
+    "description": "El mejor rifle",
+    "image(url)": "https://cdn.glitch.global/0e3ab45b-a006-4d79-9868-f7eb1f99b246/22lr.png?v=1667991968037",
+    "price": 5000,
+    "_id": "87765b4a-1158-4ba4-b574-e43bab49fe4f"
+  },
+  {
+    "name": "Fusil 458",
+    "description": "El mejor fusil",
+    "image(url)": "https://cdn.glitch.global/0e3ab45b-a006-4d79-9868-f7eb1f99b246/mossberg.png?v=1667993087620",
+    "price": 3000,
+    "_id": "613610cc-1f4c-46aa-8343-319a181e2903"
+  },
+  {
+    "name": "Fusil 308",
+    "description": "El mejor fusil",
+    "image(url)": "https://cdn.glitch.global/0e3ab45b-a006-4d79-9868-f7eb1f99b246/mossberg.png?v=1667993087620",
+    "price": 2500,
+    "_id": "e224092d-7e2a-432a-a227-0b8e9929740d"
+  },
+  {
+    "name": "Cartuchos 20/70",
+    "description": "Los mejores cartuchos",
+    "image(url)": "https://cdn.glitch.global/0e3ab45b-a006-4d79-9868-f7eb1f99b246/mossberg.png?v=1667993087620",
+    "price": 2000,
+    "_id": "9a8d1c67-47eb-4035-9a95-066fdf5f6c50"
+  },
+  {
+    "name": "Balas Calibre 458",
+    "description": "Las mejores balas",
+    "image(url)": "https://cdn.glitch.global/0e3ab45b-a006-4d79-9868-f7eb1f99b246/308.png?v=1667992878948",
+    "price": 4000,
+    "_id": "9e0b5293-aa99-4d19-83e5-cb904933917e"
+  },
+  {
+    "name": "Escopeta 20/70",
+    "description": "La mejor escopeta 20/70",
+    "image(url)": "/img/1270.png",
+    "price": 6000,
+    "_id": "59a9c6f7-1889-4550-8ce1-25ac79f6fcb2"
+  },
+  {
+    "name": "Escopeta 20/75",
+    "description": "La mejor escopeta 20/70",
+    "image(url)": "/img/1270.png",
+    "price": 6000,
+    "_id": "0ada3d5d-4120-4dc2-a755-e18bce9cc875"
+  }
+]
